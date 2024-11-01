@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+}
+
+.header {
+    padding: 64px 120px;
+    border: 1px solid black;
+}
+
+.header__top {
+    display: flex;
+    justify-content: space-between;
+}
